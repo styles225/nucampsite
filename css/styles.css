@@ -29,9 +29,32 @@ header h2 {
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
+    border-top: 1px ridge;
     min-height: 200px;
 }
 
 .navbar {
     background-color: #901cad;
+}
+
+/* .tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+} */
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
+.card-250 {
+    max-width: 250px
+}
+
+.w-80vw {
+    width: 80vw
 }
