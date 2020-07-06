@@ -58,3 +58,8 @@ header h2 {
 .w-80vw {
     width: 80vw
 }
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
